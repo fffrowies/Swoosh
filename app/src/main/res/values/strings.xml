@@ -6,4 +6,12 @@
     </string>
     <string name="on_going_all_out">ON GOING ALL OUT</string>
     <string name="go_all_in">GO ALL IN</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="co_ed">Co-Ed</string>
+    <string name="next">NEXT</string>
+    <string name="text_desired_league">Text Desired League</string>
+    <string name="swoosh_logo">Swoosh Logo</string>
+    <string name="background_image">background image</string>
 </resources>
